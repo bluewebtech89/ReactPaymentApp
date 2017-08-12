@@ -1,7 +1,8 @@
+![Alt text](/image/dashboard.png?raw=true "Payment Page")
 * Based on ES6, Babel, Webpack, Node.js, React, Redux, and Bootstrap.
 
 * Use MySQL as the database and Redis as the cache.
-![Alt text](/image/dashboard.png?raw=true "Payment Page")
+
 * Run the app
 
 ```
